@@ -1,6 +1,6 @@
 👋 Salut, Je m'appelle Vincent Dubois @vincentdbs
 
-- 🎓 Je suis en dernière année d'école d'ingénieur à Efrei Paris
+- 🎓 Étudiant ingénieur à Efrei Paris
 - ⚙️ `.html` `.css` `.js` `.ts` `.java` `angular` `springboot`
 - 📫 Me contacter
   - Mail : vincent.dubois@efrei.net
